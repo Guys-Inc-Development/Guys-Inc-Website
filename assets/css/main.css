@@ -1418,7 +1418,7 @@
 				#header h1 {
 					float: left;
 					padding-right: 0.30em;
-					font-family: 'Oleo Script', cursive;
+					padding-bottom: 0.30em;
 					font-size: 3em;
 					font-weight: 400;
 				}
